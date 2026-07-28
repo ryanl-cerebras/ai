@@ -1,5 +1,11 @@
 # ai
 
+## 5.0.223
+
+### Patch Changes
+
+- c5e11c6: Preserve provider metadata from empty text deltas in `streamText`.
+
 ## 5.0.222
 
 ### Patch Changes
