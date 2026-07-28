@@ -1,5 +1,11 @@
 # ai
 
+## 7.0.42
+
+### Patch Changes
+
+- 6de2ec1: Preserve provider metadata from empty text deltas in `streamText`.
+
 ## 7.0.41
 
 ### Patch Changes
